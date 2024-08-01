@@ -1,0 +1,14 @@
+#rain {
+    border: 1px solid black;
+    background: url(flower.jfif);
+    background-size: 100px 80px;
+    background-repeat: no-repeat;
+    padding: 15px;
+}
+
+#weather {
+    border: 1px solid black;
+    background: url(flower.jfif);
+    background-repeat: no-repeat;
+    padding: 15px;
+}
